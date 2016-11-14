@@ -1,2 +1,3 @@
 # hello-world
 Learning to use GitHub
+Hello world of Github! Creating a new repository and learning the basics...
